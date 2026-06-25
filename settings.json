@@ -1,8 +1,8 @@
 {
   "name": "LEGACY SMP",
   "bot-account": {
-    "username": "Ntproplay",
-    "password": "sword_master",
+    "username": "LegacySMP",
+    "password": "LEGACYSMPNT",
     "type": "offline"
   },
   "server": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "SMPLEGACY"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,10 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "WELCOME TO LEGACY SMP",
+        "WATCH up ON your HEALTH",
+        "THE LEGACY SMP IS TOO MUCH FRIENDLY"
+        "LEGACY SMP MADE BY Ntproplay and PRESTONEplayz"
       ]
     },
     "chat-log": true,
