@@ -1,8 +1,8 @@
 {
-  "name": "THE LEGACY SMP",
+  "name": "MATRIX SMP",
   "bot-account": {
-    "username": "LegacySMP",
-    "password": "LEGACYSMP",
+    "username": "MATRIX_SMP",
+    "password": "MATRIX_SMP",
     "type": "offline"
   },
   "server": {
