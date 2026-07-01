@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Matrixgoes.aternos.me:33945",
+    "ip": "Matrixgoes.aternos.me",
     "port": 33945,
     "version": "1.21.1"
   },
@@ -33,7 +33,8 @@
         "WELCOME TO LEGACY SMP",
         "WATCH up ON your HEALTH",
         "THE LEGACY SMP IS TOO MUCH FRIENDLY",
-        "LEGACY SMP MADE BY Ntproplay and PRESTONEplayz"
+        "LEGACY SMP MADE BY Ntproplay and PRESTONEplayz",
+        "HI"
       ]
     },
     "chat-log": true,
